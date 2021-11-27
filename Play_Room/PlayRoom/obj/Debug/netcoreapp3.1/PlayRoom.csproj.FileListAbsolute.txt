@@ -1,0 +1,13 @@
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.exe
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.deps.json
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.runtimeconfig.json
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.runtimeconfig.dev.json
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.dll
+C:\Users\Kate\source\repos\PlayRoom\bin\Debug\netcoreapp3.1\PlayRoom.pdb
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.csprojAssemblyReference.cache
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.AssemblyInfoInputs.cache
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.AssemblyInfo.cs
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.csproj.CoreCompileInputs.cache
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.dll
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.pdb
+C:\Users\Kate\source\repos\PlayRoom\obj\Debug\netcoreapp3.1\PlayRoom.genruntimeconfig.cache
