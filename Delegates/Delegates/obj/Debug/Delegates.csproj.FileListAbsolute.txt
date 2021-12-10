@@ -1,0 +1,7 @@
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\bin\Debug\Delegates.exe.config
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\bin\Debug\Delegates.exe
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\bin\Debug\Delegates.pdb
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\obj\Debug\Delegates.csprojAssemblyReference.cache
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\obj\Debug\Delegates.csproj.CoreCompileInputs.cache
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\obj\Debug\Delegates.exe
+E:\Docs\EPAM_lab\C#\Delegates\Delegates\obj\Debug\Delegates.pdb
