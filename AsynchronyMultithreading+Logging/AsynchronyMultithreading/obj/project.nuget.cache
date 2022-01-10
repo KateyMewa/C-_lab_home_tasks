@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "T84MUP3eI/DcLcN8Bckexdk0QhOmQ8bSkMHp7mRrMqmkrIQBk6wHXN61nxoA+rjn4sEqKoWNkSbvfHqcSHhNYQ==",
+  "success": true,
+  "projectFilePath": "E:\\Docs\\EPAM_lab\\C#\\AsynchronyMultithreading\\AsynchronyMultithreading\\AsynchronyMultithreading.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kate\\.nuget\\packages\\nlog\\4.7.13\\nlog.4.7.13.nupkg.sha512",
+    "C:\\Users\\Kate\\.nuget\\packages\\rdstudequationsolver\\1.0.1\\rdstudequationsolver.1.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}

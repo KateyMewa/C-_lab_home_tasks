@@ -1,0 +1,57 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "AsynchronyMultithreading/1.0.0": {
+        "dependencies": {
+          "NLog": "4.7.13",
+          "RdStudEquationSolver": "1.0.1"
+        },
+        "runtime": {
+          "AsynchronyMultithreading.dll": {}
+        }
+      },
+      "NLog/4.7.13": {
+        "runtime": {
+          "lib/netstandard2.0/NLog.dll": {
+            "assemblyVersion": "4.0.0.0",
+            "fileVersion": "4.7.13.493"
+          }
+        }
+      },
+      "RdStudEquationSolver/1.0.1": {
+        "runtime": {
+          "lib/netcoreapp3.1/EquationSolver.dll": {
+            "assemblyVersion": "1.0.1.0",
+            "fileVersion": "1.0.1.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AsynchronyMultithreading/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "NLog/4.7.13": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-AvoGpCuq36B+0wY313XA6gC+YeMvk24rqF8P+HS9fInBGOjCzPjpXp2ln9ATZjPOJtXgHfc8zNmTjyswFGLxvg==",
+      "path": "nlog/4.7.13",
+      "hashPath": "nlog.4.7.13.nupkg.sha512"
+    },
+    "RdStudEquationSolver/1.0.1": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-piYQ0ZEDoOJIybm3/yp1L+yK2JAXz8Fd92cX+JucE5pBQuWQX9jmlL8x0RLP+UvmgEb4+W8XLv+2y/M6uduF0A==",
+      "path": "rdstudequationsolver/1.0.1",
+      "hashPath": "rdstudequationsolver.1.0.1.nupkg.sha512"
+    }
+  }
+}

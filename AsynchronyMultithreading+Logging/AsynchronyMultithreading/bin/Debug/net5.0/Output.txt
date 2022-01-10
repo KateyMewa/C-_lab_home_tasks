@@ -1,0 +1,24 @@
+A: 95   B: 4   C: 74 
+Disriminant value (-28104) < 0. 
+Equation does not have solutions.
+
+A: 96   B: 86   C: 83 
+Disriminant value (-24476) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 13   C: 78 
+Disriminant value (-12935) < 0. 
+Equation does not have solutions.
+
+A: 95   B: 4   C: 74 
+Disriminant value (-28104) < 0. 
+Equation does not have solutions.
+
+A: 96   B: 86   C: 83 
+Disriminant value (-24476) < 0. 
+Equation does not have solutions.
+
+A: 42   B: 13   C: 78 
+Disriminant value (-12935) < 0. 
+Equation does not have solutions.
+
